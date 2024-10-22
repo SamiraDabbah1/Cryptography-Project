@@ -1,4 +1,3 @@
-# Cryptography-Project
 
 # 📧 🔒 Secure Email Exchange: Encryption-Decryption with FEAL in CFB Mode + Secret Key Delivery using Merkle–Hellman Knapsack + EC EL-GAMAL Signature
 
